@@ -26,12 +26,6 @@ Teremos duas etiquetas indicando o que precisaremos pensar, sendo elas:
 
 <br>
 
-<h1>Tratamento dos Dados</h1>
-<li>Limpeza de dados
-<li>Alteração da tipagem
-</ul>
-
-
 <h1>Resultados</h1>
 O relatório poderá ser acessado por este <a href="https://app.powerbi.com/reportEmbed?reportId=302e139a-99b5-4d9b-99a1-92dfef824162&autoAuth=true&ctid=b7845ad6-74cd-4782-aea9-57359643b87b&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" target="_blank">link</a>
 
