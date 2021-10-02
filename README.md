@@ -1,4 +1,4 @@
-# Alura Challenge BI - Semana 2
+# Alura Challenge BI - Semana 3
 #alurachallengebi
 <p> Repositório elaborado para armazenar e compartilhar os projetos do Alura Challenges BI. O desafio proposto pela Alura  foi para desenvolvermos projetos em BI para criarmos um portifólio. </p>
 
