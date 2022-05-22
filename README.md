@@ -1,9 +1,13 @@
 # Alura Challenge BI - Semana 3
-#alurachallengebi
+
+![](https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870)
+
+
+Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999) on [Unsplash](https://unsplash.com/)
+
+
 <p> Repositório elaborado para armazenar e compartilhar os projetos do Alura Challenges BI. O desafio proposto pela Alura  foi para desenvolvermos projetos em BI para criarmos um portifólio. </p>
 
-## Resumo: 
-<p> Três empresas nos contrataram para entender suas bases de dados e exibir informações relevantes com o objetivo de auxiliar suas tomadas de decisão. Conceitos e técnicas de BI serão utilizados para desenvolver um dashboard para uma das empresas.  A primeira empresa, Alura Log, necessita analisar dados sobre a logística de entregas do seu negócio. A segunda empresa, Alura Shop, precisa de um dashboard para monitorar a campanha de marketing durante um mês. A terceira empresa, Alura Store, precisa entender como anda a sua área financeira, pensando em hipóteses. </p>
 
 ### Semana 3:
 <p> Desenvolveremos um dashboard tático da área financeira de uma empresa, no qual vamos criar duas páginas, sendo uma delas exibindo um overview de toda a área financeira e a outra página realizando uma análise de cenários.
@@ -25,8 +29,16 @@ Teremos duas etiquetas indicando o que precisaremos pensar, sendo elas:
 <p>Foi utilizado o Power BI para o desenvolvimento do Dashboard </p>
 
 <br>
+  
+![image](https://user-images.githubusercontent.com/64700794/169712270-8376db1e-8f8f-48ed-b99c-113f4dc68208.png)
+![image](https://user-images.githubusercontent.com/64700794/169712282-4c175483-bf98-4b2d-b1bf-b869123b6e21.png)
+![image](https://user-images.githubusercontent.com/64700794/169712345-c01c14bb-3d0c-4113-b803-69be9a019d57.png)
+
+
+
+
 
 <h1>Resultados</h1>
-O relatório poderá ser acessado por este <a href="https://app.powerbi.com/reportEmbed?reportId=302e139a-99b5-4d9b-99a1-92dfef824162&autoAuth=true&ctid=b7845ad6-74cd-4782-aea9-57359643b87b&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" target="_blank">link</a>
+O relatório poderá ser acessado por este <a href="https://app.powerbi.com/reportEmbed?reportId=03553ffb-aacb-4ec7-8c1c-292cfab41417&autoAuth=true&ctid=712f9db4-6407-4075-846a-52d00afd93ff&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" target="_blank">link</a>
 
 
