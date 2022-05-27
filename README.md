@@ -39,6 +39,6 @@ Teremos duas etiquetas indicando o que precisaremos pensar, sendo elas:
 
 
 <h1>Resultados</h1>
-O relatório poderá ser acessado por este <a href="https://app.powerbi.com/reportEmbed?reportId=03553ffb-aacb-4ec7-8c1c-292cfab41417&autoAuth=true&ctid=712f9db4-6407-4075-846a-52d00afd93ff&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" target="_blank">link</a>
+O relatório poderá ser acessado por este <a href=https://app.powerbi.com/view?r=eyJrIjoiYjQ3OTliNWUtNjlkYy00ZWY0LWFjMjAtZWViODBiNmY2YzM4IiwidCI6IjcxMmY5ZGI0LTY0MDctNDA3NS04NDZhLTUyZDAwYWZkOTNmZiJ9>link</a>
 
 
